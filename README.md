@@ -4,7 +4,7 @@
 
 ```
 title: String (required)
-content: Any (required)
+content: String (required)
 ```
 ## How to use the API
 
