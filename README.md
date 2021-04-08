@@ -50,14 +50,24 @@ Example payload:
 DELETE /article/:id
 ```
 
+## Prerequisite
+* Mongo
+* ExpressJS
+* Node
+* ReactJs
+
 ## Setting Up
+
+### Backend Server
 ```sh
 cd server
 npm i
 npm run dev
 ```
 
-## Prerequisite
-* Mongo
-* ExpressJS
-* Node
+### Frontend React Client
+```sh
+cd client
+npm i
+npm start
+```
